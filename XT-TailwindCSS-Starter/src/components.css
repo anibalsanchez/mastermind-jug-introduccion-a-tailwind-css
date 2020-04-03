@@ -1,0 +1,12 @@
+
+.mi-tarjeta {
+    @apply bg-blue-400 rounded-lg p-6 w-96 shadow-lg m-16;
+
+    .mi-lineas {
+        @apply text-white;
+    }
+
+    .mi-avatar {
+        @apply h-16 w-16 rounded-full mx-auto;
+    }
+}
