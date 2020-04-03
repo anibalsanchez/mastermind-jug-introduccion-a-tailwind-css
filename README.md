@@ -22,7 +22,7 @@ Los puntos que analizamos fueron los siguientes:
 1. Implementación de estilos inline, hoja de estilos user.css o plantilla completa
 1. Conclusiones, diseño avanzado, prototipos y próximos pasos
 
-Vídeo de la charla (lamentablemente el audio no quedó grabado): ...
+Vídeo de la charla (lamentablemente el audio no quedó grabado): <https://www.youtube.com/watch?v=ogUCh1_cHd8>
 
 Charlas del Joomla JUG Mastermind sobre Joomla!: <https://mastermindjoomla.com/jug>
 
