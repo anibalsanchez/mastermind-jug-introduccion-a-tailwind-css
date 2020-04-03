@@ -3,6 +3,8 @@
 
 Tailwind CSS se ha hecho muy popular entre los desarrolladores Joomla a pesar de su poco tiempo en el mercado y unos de los desarrolladores que más lo ha trabajado es Aníbal Sánchez (líder supremo del JED y desarrollador principal en Extly). Aníbal nos contará por qué le gusta tanto Tailwind, y nos enseñará cómo podemos introducirlo en nuestros sitios Joomla.
 
+![](https://d1hvvp61iyzquq.cloudfront.net/images/mastermind-jug-introduccion-a-tailwind-css.png)
+
 Artículo relacionado: <https://blog.anibalhsanchez.com/es/9-blogueando/68-charla-del-mastermind-jug-introducci%C3%B3n-a-tailwind-css.html>
 
 Los puntos que analizamos fueron los siguientes:
